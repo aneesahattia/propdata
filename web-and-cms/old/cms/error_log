@@ -1,0 +1,95 @@
+[09-Dec-2015 20:04:04 UTC] PHP Fatal error:  Cannot use [] for reading in /home/hettrcei/public_html/cms/custom_handler.php on line 13
+[09-Dec-2015 20:04:24 UTC] PHP Fatal error:  Cannot use [] for reading in /home/hettrcei/public_html/cms/custom_handler.php on line 13
+[09-Dec-2015 20:10:26 UTC] PHP Fatal error:  Cannot redeclare class upload in /home/hettrcei/public_html/cms/class.upload.php on line 606
+[09-Dec-2015 20:10:32 UTC] PHP Fatal error:  Cannot redeclare class upload in /home/hettrcei/public_html/cms/class.upload.php on line 606
+[09-Dec-2015 20:11:07 UTC] PHP Fatal error:  Cannot redeclare class upload in /home/hettrcei/public_html/cms/class.upload.php on line 606
+[09-Dec-2015 20:13:22 UTC] PHP Fatal error:  Cannot redeclare class upload in /home/hettrcei/public_html/cms/class.upload.php on line 36
+[09-Dec-2015 20:20:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/hettrcei/public_html/cms/add_new.php on line 32
+[09-Dec-2015 20:21:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/hettrcei/public_html/cms/add_new.php on line 32
+[09-Dec-2015 20:21:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/hettrcei/public_html/cms/add_new.php on line 32
+[09-Dec-2015 20:21:11 UTC] PHP Fatal error:  Class 'Upload' not found in /home/hettrcei/public_html/cms/add_new.php on line 22
+[09-Dec-2015 20:21:11 UTC] PHP Fatal error:  Class 'Upload' not found in /home/hettrcei/public_html/cms/add_new.php on line 22
+[09-Dec-2015 20:21:12 UTC] PHP Fatal error:  Class 'Upload' not found in /home/hettrcei/public_html/cms/add_new.php on line 22
+[09-Dec-2015 20:21:42 UTC] PHP Fatal error:  Class 'Upload' not found in /home/hettrcei/public_html/cms/add_new.php on line 22
+[09-Dec-2015 20:21:43 UTC] PHP Fatal error:  Class 'Upload' not found in /home/hettrcei/public_html/cms/add_new.php on line 22
+[10-Dec-2015 18:12:25 UTC] PHP Warning:  include(menu3.php): failed to open stream: No such file or directory in /home/hettrcei/public_html/cms/index-2.php on line 85
+[10-Dec-2015 18:12:25 UTC] PHP Warning:  include(menu3.php): failed to open stream: No such file or directory in /home/hettrcei/public_html/cms/index-2.php on line 85
+[10-Dec-2015 18:12:25 UTC] PHP Warning:  include(): Failed opening 'menu3.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hettrcei/public_html/cms/index-2.php on line 85
+[10-Dec-2015 18:12:25 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/hettrcei/public_html/cms/index-2.php on line 232
+[10-Dec-2015 18:12:25 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/hettrcei/public_html/cms/index-2.php on line 232
+[10-Dec-2015 18:12:25 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hettrcei/public_html/cms/index-2.php on line 232
+[10-Dec-2015 18:40:13 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/hettrcei/public_html/cms/upload.php on line 42
+[10-Dec-2015 18:48:53 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'hettrcei'@'localhost' (using password: NO) in /home/hettrcei/public_html/cms/custom_handler.php on line 52
+[10-Dec-2015 18:48:53 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/hettrcei/public_html/cms/custom_handler.php on line 52
+[10-Dec-2015 18:48:53 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'hettrcei'@'localhost' (using password: NO) in /home/hettrcei/public_html/cms/custom_handler.php on line 52
+[10-Dec-2015 18:48:53 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/hettrcei/public_html/cms/custom_handler.php on line 52
+[10-Dec-2015 18:48:53 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/hettrcei/public_html/cms/upload.php on line 43
+[10-Dec-2015 18:49:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'hettrcei'@'localhost' (using password: NO) in /home/hettrcei/public_html/cms/custom_handler.php on line 52
+[10-Dec-2015 18:49:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/hettrcei/public_html/cms/custom_handler.php on line 52
+[10-Dec-2015 18:49:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'hettrcei'@'localhost' (using password: NO) in /home/hettrcei/public_html/cms/custom_handler.php on line 52
+[10-Dec-2015 18:49:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/hettrcei/public_html/cms/custom_handler.php on line 52
+[10-Dec-2015 18:49:35 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/hettrcei/public_html/cms/upload.php on line 43
+[10-Dec-2015 18:51:12 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/hettrcei/public_html/cms/upload.php on line 43
+[10-Dec-2015 18:51:39 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/hettrcei/public_html/cms/upload.php on line 43
+[10-Dec-2015 18:52:14 UTC] PHP Warning:  PDO::exec() expects parameter 1 to be string, object given in /home/hettrcei/public_html/cms/upload.php on line 42
+[11-Dec-2015 22:57:44 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/hettrcei/public_html/cms/upload.php on line 18
+[14-Dec-2015 17:11:55 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'hettrcei'@'localhost' (using password: NO) in /home/hettrcei/public_html/cms/upload.php on line 5
+[14-Dec-2015 17:11:55 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/hettrcei/public_html/cms/upload.php on line 5
+[14-Dec-2015 17:11:55 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'hettrcei'@'localhost' (using password: NO) in /home/hettrcei/public_html/cms/upload.php on line 6
+[14-Dec-2015 17:11:55 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/hettrcei/public_html/cms/upload.php on line 6
+[14-Dec-2015 17:13:51 UTC] PHP Warning:  filter_input() expects at least 2 parameters, 1 given in /home/hettrcei/public_html/cms/upload.php on line 5
+[14-Dec-2015 17:13:51 UTC] PHP Warning:  filter_input() expects at least 2 parameters, 1 given in /home/hettrcei/public_html/cms/upload.php on line 6
+[14-Dec-2015 17:13:51 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/hettrcei/public_html/cms/upload.php on line 18
+[14-Dec-2015 17:15:13 UTC] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/hettrcei/public_html/cms/upload.php on line 5
+[14-Dec-2015 17:15:13 UTC] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/hettrcei/public_html/cms/upload.php on line 6
+[14-Dec-2015 17:15:13 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/hettrcei/public_html/cms/upload.php on line 18
+[14-Dec-2015 17:20:53 UTC] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/hettrcei/public_html/cms/upload.php on line 5
+[14-Dec-2015 17:20:53 UTC] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/hettrcei/public_html/cms/upload.php on line 6
+[14-Dec-2015 17:20:53 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/hettrcei/public_html/cms/upload.php on line 18
+[14-Dec-2015 17:21:13 UTC] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/hettrcei/public_html/cms/upload.php on line 5
+[14-Dec-2015 17:21:13 UTC] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/hettrcei/public_html/cms/upload.php on line 6
+[14-Dec-2015 17:21:47 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/hettrcei/public_html/cms/upload.php on line 29
+[14-Dec-2015 17:22:38 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/hettrcei/public_html/cms/upload.php on line 44
+[14-Dec-2015 18:32:10 UTC] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:33:51 UTC] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:38:49 UTC] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:39:48 UTC] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:40:13 UTC] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:40:39 UTC] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:41:21 UTC] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:41:50 UTC] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:42:44 UTC] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:46:11 UTC] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:47:23 UTC] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:49:29 UTC] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 18:50:56 UTC] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/hettrcei/public_html/cms/upload.php on line 22
+[14-Dec-2015 19:41:14 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/hettrcei/public_html/cms/update.php on line 17
+[14-Dec-2015 20:34:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hettrcei/public_html/cms/edit.php on line 14
+[14-Dec-2015 20:34:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hettrcei/public_html/cms/edit.php on line 14
+[14-Dec-2015 20:35:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hettrcei/public_html/cms/edit.php on line 14
+[14-Dec-2015 20:36:08 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hettrcei/public_html/cms/edit.php on line 24
+[14-Dec-2015 20:36:21 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hettrcei/public_html/cms/edit.php on line 24
+[14-Dec-2015 20:36:27 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/hettrcei/public_html/cms/edit.php on line 7
+[14-Dec-2015 20:36:43 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/hettrcei/public_html/cms/edit.php on line 7
+[14-Dec-2015 20:37:09 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/hettrcei/public_html/cms/edit.php on line 9
+[14-Dec-2015 20:38:21 UTC] PHP Warning:  Division by zero in /home/hettrcei/public_html/cms/edit.php on line 26
+[14-Dec-2015 20:38:33 UTC] PHP Warning:  Division by zero in /home/hettrcei/public_html/cms/edit.php on line 26
+[14-Dec-2015 20:39:01 UTC] PHP Warning:  Division by zero in /home/hettrcei/public_html/cms/edit.php on line 26
+[14-Dec-2015 20:39:42 UTC] PHP Warning:  Division by zero in /home/hettrcei/public_html/cms/edit.php on line 26
+[15-Dec-2015 06:10:03 UTC] PHP Warning:  move_uploaded_file(cms/images/Mauritius8.jpg): failed to open stream: No such file or directory in /home/hettrcei/public_html/cms/upload.php on line 24
+[15-Dec-2015 06:10:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpotKKhu' to 'cms/images/Mauritius8.jpg' in /home/hettrcei/public_html/cms/upload.php on line 24
+[20-Dec-2015 14:39:57 UTC] PHP Warning:  move_uploaded_file(cms/images/test8.png): failed to open stream: No such file or directory in /home/hettrcei/public_html/cms/upload.php on line 24
+[20-Dec-2015 14:39:57 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHtZ9Ai' to 'cms/images/test8.png' in /home/hettrcei/public_html/cms/upload.php on line 24
+[03-Oct-2017 18:11:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 18:12:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 18:12:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 18:15:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 18:15:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 18:17:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 18:17:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 18:19:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 18:29:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 18:49:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[03-Oct-2017 19:08:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[05-Oct-2017 09:29:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2
+[11-Oct-2017 12:51:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hettrcei/public_html/cms/connection.php5 on line 2

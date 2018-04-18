@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+table.table-bordered th:last-child, table.table-bordered td:last-child {
+    border-right-width: 1px;
+}
+
+.row {
+    margin-right: auto !important;
+     margin-left: auto !important;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #161f4a;
+    border-color: #161f4a;
+}
+
+.panel-primary {
+    border-color: #161f4a;
+}
+
+.tab { margin-left: 40px; }

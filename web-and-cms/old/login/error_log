@@ -1,0 +1,19 @@
+[03-Dec-2015 16:58:32 UTC] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'sql5.cpt4.host-h.net' (4) in /home/hettrcei/public_html/login/connection.php5 on line 2
+[03-Dec-2015 17:16:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 46
+[03-Dec-2015 17:17:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 46
+[03-Dec-2015 17:18:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 46
+[03-Dec-2015 17:18:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 46
+[03-Dec-2015 17:18:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 46
+[03-Dec-2015 17:19:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 46
+[03-Dec-2015 17:20:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 46
+[03-Dec-2015 17:21:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 46
+[03-Dec-2015 17:21:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 46
+[03-Dec-2015 17:24:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 47
+[03-Dec-2015 17:24:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 47
+[03-Dec-2015 17:25:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hettrcei/public_html/login/checklogin.php on line 47
+[03-Dec-2015 17:29:39 UTC] PHP Warning:  include(menu3.php): failed to open stream: No such file or directory in /home/hettrcei/public_html/login/index-2-edit.php on line 85
+[03-Dec-2015 17:29:39 UTC] PHP Warning:  include(menu3.php): failed to open stream: No such file or directory in /home/hettrcei/public_html/login/index-2-edit.php on line 85
+[03-Dec-2015 17:29:39 UTC] PHP Warning:  include(): Failed opening 'menu3.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hettrcei/public_html/login/index-2-edit.php on line 85
+[03-Dec-2015 17:29:39 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/hettrcei/public_html/login/index-2-edit.php on line 232
+[03-Dec-2015 17:29:39 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/hettrcei/public_html/login/index-2-edit.php on line 232
+[03-Dec-2015 17:29:39 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hettrcei/public_html/login/index-2-edit.php on line 232
