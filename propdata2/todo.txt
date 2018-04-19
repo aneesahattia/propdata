@@ -1,0 +1,11 @@
+1. job_bag_back
+2. print a job page
+3. print buttons on view pages
+
+4. on job completion - ability to attach quote, 'send to billing' and mark as billed
+
+5. cron reporting function - daily - notification emails when deadline is overdue to AE and USER
+6. cron reporting function - every friday afternoon - to ADMIN - on each user's hours logged
+7. cron reporting function - every friday afternoon - to ADMIN - on each user's completed jobs
+8. cron reporting function - every friday afternoon - for all ae's on their open/closed jobs
+9. cron reporting function - every friday afternoon - for all users on their open/closed jobs
